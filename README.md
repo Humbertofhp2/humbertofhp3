@@ -21,9 +21,6 @@ Outside of work, I'm a 29-year-old family man who treasures every moment with my
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&labelColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-DD0031.svg?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![Angular Material](https://img.shields.io/badge/-Angular_Material-0081CB.svg?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 
 ##
